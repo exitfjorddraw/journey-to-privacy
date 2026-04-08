@@ -13,3 +13,5 @@ Browser (ios mobile) - Firefox Focus
 Browser (desktop) - LibreWolf
 
 Search engine - Mojeek or Searxng
+
+2 Factor Authenticator - 2FAS Auth (ios mobile app)
