@@ -11,7 +11,9 @@ Today this was much easier than it was even 5 years ago due to better hardware s
 ## Switching from Discord to Signal:
 
 - I found this quite easy overall. Signal is much simpler which feels great since discord was getting bloated and annoying.
-- Make sure to do a pass through the settings (they aren't long) and set disappearing messages to something like 1-4 weeks.
+- Make sure to do a pass through the settings (they aren't long)
+  - set disappearing messages to something like 1-4 weeks
+  - (on mobile) set Signal->Settings->Notifications->NotificationContent = No Name or Content (or else iOS or Android might record your messages)
 - I think the devs are worth supporting with a donation (especially if you use it a lot).
 
 ## Using paper and pencil for passwords and account names:
