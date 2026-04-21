@@ -2,7 +2,7 @@ Operating System - Linux (EndeavorOS)
 
 Messaging - Signal
 
-Email - Startmail
+Email - Startmail or Tuta
 
 Passwords - Notepad and Pencil (physical paper - non-digital)
 
